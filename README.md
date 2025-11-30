@@ -56,5 +56,5 @@ Machine learning models including Linear Regression, Ridge Regression, Random Fo
 
 # 📚 Sources & Citations
 - https://www.basketball-reference.com
-- https://github.com/basketball-reference-scraper
+- [https://github.com/basketball-reference-scraper](https://github.com/jaebradley/basketball_reference_web_scraper/tree/v4)
 - NBA Advanced Stats Glossary
